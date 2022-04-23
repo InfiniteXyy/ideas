@@ -1,0 +1,17 @@
+{
+  "name": "ideas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/InfiniteXyy/ideas.git",
+  "author": "infiniteXyy <xuyiyangwing@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3",
+    "vitepress": "^0.22.3"
+  }
+}
