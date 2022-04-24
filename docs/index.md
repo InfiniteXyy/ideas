@@ -12,3 +12,5 @@
 # List
 
 [The backend framework: A React Developer may create](./react-like-backend-framework.md)
+
+[Redefined React Hooks](./redefined-react-hooks.md)
