@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,d as t}from"./app.d54fa4fe.js";const g='{"title":"redefined-react-hooks","description":"","frontmatter":{},"headers":[],"relativePath":"redefined-react-hooks.md"}',o={},e=t("",20),p=[e];function c(u,l,r,i,k,d){return a(),s("div",null,p)}var m=n(o,[["render",c]]);export{g as __pageData,m as default};
